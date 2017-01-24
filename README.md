@@ -1,5 +1,5 @@
 # AudioCaptureAndPlay
-record and play Audio based on webrtc and QT.
+record and play Audio based on webrtc and QT, support Automatic Gain Control and Noise Suppression.
 
 How to compile
 
@@ -10,5 +10,5 @@ modify line 30 to line 34 in "AudioCaptureAndPlay.pro" to librarier you have com
 
 How to Use
 
-/bin is compiled under vs2015, you need to install vs2015 redistributable package first.
+/bin is compiled under vs2015 x64, Please make sure your system in windows x64, and vs2015 redistributable package installed.
 
